@@ -3,7 +3,7 @@
 
 ### Sidan är helt uppbyggd av HTML.
 
-### https://silly-kelpie-b9e1f6.netlify.app/ https://github.com/moka2604/Labb-2 
+### https://silly-kelpie-b9e1f6.netlify.app/  https://moka2604.github.io/Labb-2/
 
 # Skillnaden mellan git add och git commit
 ### Git add använder man när man vill lägga till alla ändrade filer på en gång medan git commit använder man för att beskriva ändringen man har gjort på sidan.
